@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ingénierie Pédagogique dans le Supérieur</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
+        nav { background: #0056b3; padding: 10px; border-radius: 5px; }
+        nav a { color: white; margin-right: 15px; text-decoration: none; font-weight: bold; }
+        h1, h2 { color: #0056b3; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="primaire_secondaire.html">Primaire & Secondaire</a>
+        <a href="superieur.html">Enseignement Supérieur</a>
+        <a href="catholique.html">Enseignement Catholique</a>
+    </nav>
+
+    <h1>L'Ingénierie Pédagogique dans l'Enseignement Supérieur</h1>
+    <p>Dans l'enseignement supérieur, l'ingénieur pédagogique est une figure centrale de la transformation pédagogique des établissements (universités, écoles) [1]. Il peut agir aussi bien au niveau micro (un cours spécifique) qu'au niveau macro (la conception globale d'une formation) [10, 11].</p>
+
+    <h2>Missions principales</h2>
+    <ul>
+        <li><strong>Le développement professionnel des enseignants :</strong> L'ingénieur aide les enseignants-chercheurs dans leur démarche réflexive, notamment via l'approche SoTL (Scholarship of Teaching and Learning) [12].</li>
+        <li><strong>L'hybridation des enseignements :</strong> Il ne s'agit pas seulement d'alterner présentiel et distanciel, mais de combiner différentes modalités pédagogiques (synchrone/asynchrone, individuel/collectif) pour favoriser l'engagement des étudiants [13].</li>
+        <li><strong>L'Approche Par Compétences (APC) :</strong> L'ingénieur accompagne le passage d'une logique de transmission de savoirs à une logique d'acquisition de compétences globales, impliquant l'alignement pédagogique et la création de grilles d'évaluation [14-16].</li>
+    </ul>
+
+    <h2>Une posture d'accompagnement</h2>
+    <p>L'accompagnement des enseignants par l'ingénieur pédagogique se fait sans posture prescriptive : il s'agit d'"être avec et aller vers" pour s'adapter aux besoins de l'enseignant [17, 18]. La maîtrise d'outils numériques (LMS, e-portfolio) est essentielle, mais le choix de ces outils est toujours conditionné par leur pertinence pour l'apprentissage [19, 20].</p>
+</body>
+</html>

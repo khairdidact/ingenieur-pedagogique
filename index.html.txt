@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>L'Ingénierie Pédagogique</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
+        nav { background: #0056b3; padding: 10px; border-radius: 5px; }
+        nav a { color: white; margin-right: 15px; text-decoration: none; font-weight: bold; }
+        h1 { color: #0056b3; }
+        .highlight { background: #e9ecef; padding: 15px; border-left: 4px solid #0056b3; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="primaire_secondaire.html">Primaire & Secondaire</a>
+        <a href="superieur.html">Enseignement Supérieur</a>
+        <a href="catholique.html">Enseignement Catholique</a>
+    </nav>
+
+    <h1>Qu'est-ce que l'ingénierie pédagogique ?</h1>
+    
+    <div class="highlight">
+        <p>L'ingénierie pédagogique est une démarche structurée qui a pour but de <strong>concevoir, d'aménager ou de transformer un dispositif d'apprentissage afin d'optimiser l'efficacité de la formation</strong> [4].</p>
+    </div>
+
+    <h2>Le rôle de l'ingénieur pédagogique</h2>
+    <p>L'ingénieur pédagogique est un expert de la pédagogie qui joue un rôle essentiel de facilitateur et d'accélérateur de l'apprentissage [5, 6]. Il conçoit des programmes de formation en tenant compte de trois paramètres fondamentaux : les objectifs de la formation, le profil des apprenants et les contraintes de ressources [4].</p>
+    
+    <ul>
+        <li><strong>Conception et accompagnement :</strong> Il gère la conception des contenus et outils, tout en accompagnant et formant les équipes pédagogiques [2, 7].</li>
+        <li><strong>Innovation :</strong> Il intègre les évolutions technologiques et les nouvelles modalités d'apprentissage, comme le numérique, tout en veillant à ce que l'outil reste subordonné au plan pédagogique [2, 8].</li>
+        <li><strong>Gestion de projet :</strong> Il gère l'ensemble des étapes du projet, de l'analyse des besoins à l'évaluation du dispositif mis en œuvre [9].</li>
+    </ul>
+</body>
+</html>

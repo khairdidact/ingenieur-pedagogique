@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ingénierie Pédagogique - Primaire et Secondaire</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
+        nav { background: #0056b3; padding: 10px; border-radius: 5px; }
+        nav a { color: white; margin-right: 15px; text-decoration: none; font-weight: bold; }
+        h1 { color: #0056b3; }
+        .warning { background: #fff3cd; color: #856404; padding: 15px; border-left: 4px solid #ffeeba; margin-bottom: 20px;}
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="primaire_secondaire.html">Primaire & Secondaire</a>
+        <a href="superieur.html">Enseignement Supérieur</a>
+        <a href="catholique.html">Enseignement Catholique</a>
+    </nav>
+
+    <h1>Application dans le Primaire et le Secondaire</h1>
+    
+    <div class="warning">
+        <strong>Avertissement :</strong> Les informations qui suivent nécessitent d'être vérifiées et complétées avec des ressources documentaires externes, car les sources utilisées pour ce site se focalisent presque exclusivement sur le secteur de l'enseignement supérieur, l'éducation des adultes et les métiers de la formation professionnelle [1, 3].
+    </div>
+
+    <p>Toutefois, les principes fondamentaux de l'ingénierie pédagogique sont universels. Le processus exige de toujours prendre en compte <strong>le profil des participants ou apprenants</strong> [4].</p>
+    
+    <ul>
+        <li><strong>Adaptation cognitive :</strong> Pour le niveau primaire et secondaire, l'ingénierie se concentre sur l'adaptation des outils aux stades de développement cognitif des enfants et des adolescents. Par exemple, l'apport de la psychologie cognitive est de plus en plus pris en compte dans le métier, de la maternelle à l'enseignement supérieur [21].</li>
+        <li><strong>Accompagnement du corps professoral :</strong> Tout comme dans le supérieur, l'objectif d'un ingénieur ou conseiller pédagogique serait d'accompagner les professeurs des écoles et professeurs certifiés dans la scénarisation de leurs cours et l'intégration pertinente des outils numériques [7, 22].</li>
+    </ul>
+    
+    <p><em>* (Insérer ici vos données spécifiques au secteur primaire et secondaire en utilisant des sources académiques adaptées) *</em></p>
+</body>
+</html>

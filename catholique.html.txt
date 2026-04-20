@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Rôle dans l'Enseignement Catholique</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
+        nav { background: #0056b3; padding: 10px; border-radius: 5px; }
+        nav a { color: white; margin-right: 15px; text-decoration: none; font-weight: bold; }
+        h1 { color: #0056b3; }
+        .warning { background: #fff3cd; color: #856404; padding: 15px; border-left: 4px solid #ffeeba; margin-bottom: 20px;}
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="primaire_secondaire.html">Primaire & Secondaire</a>
+        <a href="superieur.html">Enseignement Supérieur</a>
+        <a href="catholique.html">Enseignement Catholique</a>
+    </nav>
+
+    <h1>Le rôle spécifique dans l'Enseignement Catholique</h1>
+
+    <div class="warning">
+        <strong>Avertissement :</strong> Les ressources de base de ce site documentent l'existence de fiches métiers d'ingénieur pédagogique dans la "Branche de l'enseignement privé indépendant" (IDCC 2691) [2]. Cependant, elles ne fournissent pas de cadre ou de missions spécifiques à l'Enseignement Catholique. Les informations conceptuelles ci-dessous sont issues de connaissances en dehors de nos sources principales et doivent être complétées par les spécificités de votre institution.
+    </div>
+
+    <h2>Ingénierie pédagogique et Enseignement Privé Indépendant</h2>
+    <p>Dans l'enseignement privé, le rôle de l'ingénieur pédagogique consiste à élaborer des parcours de formation en cohérence avec les programmes définis au sein de l'établissement [23]. Cela implique une forte adaptation à l'ADN et au projet éducatif du réseau d'établissements.</p>
+
+    <h2>Spécificités attendues (à développer)</h2>
+    <p>Dans le contexte spécifique de l'enseignement catholique, l'ingénierie pédagogique devrait s'aligner sur :</p>
+    <ul>
+        <li><strong>La vision anthropologique :</strong> Intégrer la prise en compte globale de la personne (corps, âme, esprit) dans la scénarisation pédagogique.</li>
+        <li><strong>L'inclusion :</strong> Penser des dispositifs accessibles et bienveillants, en accord avec les valeurs pastorales du réseau.</li>
+        <li><strong>Le développement de la communauté éducative :</strong> L'ingénieur, par son rôle de conseil et de veille [9, 24], participe à la cohésion de la communauté (enseignants, direction, personnel).</li>
+    </ul>
+
+    <p><em>* (Complétez cette section avec le Projet Éducatif de l'Enseignement Catholique et les documents de référence du SGEC) *</em></p>
+</body>
+</html>
